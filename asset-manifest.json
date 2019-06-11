@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Leevie/clicky-react-game/static/css/main.1d006766.chunk.css",
+    "main.js": "/Leevie/clicky-react-game/static/js/main.ad5efc96.chunk.js",
+    "main.js.map": "/Leevie/clicky-react-game/static/js/main.ad5efc96.chunk.js.map",
+    "runtime~main.js": "/Leevie/clicky-react-game/static/js/runtime~main.2e03c1f8.js",
+    "runtime~main.js.map": "/Leevie/clicky-react-game/static/js/runtime~main.2e03c1f8.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/Leevie/clicky-react-game/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/Leevie/clicky-react-game/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/Leevie/clicky-react-game/index.html",
+    "precache-manifest.5ae6dc19ba196eb89514a02302833141.js": "/Leevie/clicky-react-game/precache-manifest.5ae6dc19ba196eb89514a02302833141.js",
+    "service-worker.js": "/Leevie/clicky-react-game/service-worker.js",
+    "static/css/main.1d006766.chunk.css.map": "/Leevie/clicky-react-game/static/css/main.1d006766.chunk.css.map",
+    "static/media/Banner.css": "/Leevie/clicky-react-game/static/media/bg.9a30e6c6.png",
+    "static/media/black_panther.jpg": "/Leevie/clicky-react-game/static/media/black_panther.c5020403.jpg",
+    "static/media/black_widow.jpg": "/Leevie/clicky-react-game/static/media/black_widow.32a75e18.jpg",
+    "static/media/captain_america.jpg": "/Leevie/clicky-react-game/static/media/captain_america.d8c1c878.jpg",
+    "static/media/groot.jpg": "/Leevie/clicky-react-game/static/media/groot.0a37f77b.jpg",
+    "static/media/hulk.jpg": "/Leevie/clicky-react-game/static/media/hulk.1c52f5fa.jpg",
+    "static/media/iron_man.jpg": "/Leevie/clicky-react-game/static/media/iron_man.256933b8.jpg",
+    "static/media/loki.jpg": "/Leevie/clicky-react-game/static/media/loki.a9025e54.jpg",
+    "static/media/nick_fury.jpg": "/Leevie/clicky-react-game/static/media/nick_fury.e7306ad3.jpg",
+    "static/media/rocket.jpg": "/Leevie/clicky-react-game/static/media/rocket.12d85e0b.jpg",
+    "static/media/spider_man.jpg": "/Leevie/clicky-react-game/static/media/spider_man.57dad451.jpg",
+    "static/media/thor.jpg": "/Leevie/clicky-react-game/static/media/thor.42ccda40.jpg",
+    "static/media/vision.jpg": "/Leevie/clicky-react-game/static/media/vision.287952e2.jpg"
+  }
+}
