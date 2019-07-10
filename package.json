@@ -2,7 +2,7 @@
   "name": "clicky-react-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Leevie/clicky-react-game",
+  "homepage": "https://leevie.github.io/clicky-react-game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
