@@ -5,6 +5,7 @@ A click game built using ReactJS
 
 ----
 
+![](src\images\readme_Img-1.png)
 
 ## Available Scripts
 
